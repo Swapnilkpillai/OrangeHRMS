@@ -1,0 +1,32 @@
+package com.Test.useCases;
+
+import cucumber.api.java.en.*;
+
+public class ApplicationLogin {
+
+	@Given("^Open the URL$")
+	public void open_the_URL() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^Enter Username$")
+	public void enter_Username() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^Enter Password$")
+	public void enter_Password() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+	@Then("^Click Login Button$")
+	public void click_Login_Button() throws Throwable {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
+	}
+
+
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="OrangeHRMS" project="OrangeHRMS" tests="4" started="4" failures="0" errors="0" ignored="3">
+  <testsuite name="com.Test.useCases.RunnerTest" time="0.403">
+    <testsuite name="Feature: Login to the application" time="0.403">
+      <testsuite name="Scenario: Login to the Application" time="0.403" incomplete="true">
+        <skipped/>
+        <testcase name="Given Open the URL" classname="Scenario: Login to the Application" time="0.4"/>
+        <testcase name="Then Enter Username" classname="Scenario: Login to the Application" time="0.002" ignored="true"/>
+        <testcase name="Then Enter Password" classname="Scenario: Login to the Application" time="0.001" ignored="true"/>
+        <testcase name="Then Click Login Button" classname="Scenario: Login to the Application" time="0.0" ignored="true"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
